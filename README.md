@@ -29,7 +29,7 @@ This is my first internal hack with ImGui and doing it 100% by my self (which i 
 - SpawnMapItems
 - ESP (Soon)
 
-## Sexy Oiled Up Pics
+## Showcase
 
 ![Oiled Up Pic 1](https://github.com/Sir-Monke/Sauerbraten-Internal-ImGui/blob/main/Example1.png)
 ![Oiled Up Pic 2](https://github.com/Sir-Monke/Sauerbraten-Internal-ImGui/blob/main/Example2.png)
